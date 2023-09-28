@@ -1,0 +1,175 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Linkedlist",
+            "request": "launch",
+            "mainClass": "Linkedlist.Linkedlist",
+            "projectName": "JAVA C_8f34be7d"
+        },
+        {
+            "type": "java",
+            "name": "Leepyear",
+            "request": "launch",
+            "mainClass": "Leepyear",
+            "projectName": "JAVA C_8f34be7d"
+        },
+        {
+            "type": "java",
+            "name": "Triangle01",
+            "request": "launch",
+            "mainClass": "Triangle01",
+            "projectName": "JAVA C_8f34be7d"
+        },
+        {
+            "type": "java",
+            "name": "IsMonotonic",
+            "request": "launch",
+            "mainClass": "IsMonotonic",
+            "projectName": "JAVA C_8f34be7d"
+        },
+        {
+            "type": "java",
+            "name": "PairSum",
+            "request": "launch",
+            "mainClass": "PairSum",
+            "projectName": "JAVA C_8f34be7d"
+        },
+        {
+            "type": "java",
+            "name": "AbstractName",
+            "request": "launch",
+            "mainClass": "AbstractName",
+            "projectName": "JAVA C_8f34be7d"
+        },
+        {
+            "type": "java",
+            "name": "StrPermutation",
+            "request": "launch",
+            "mainClass": "StrPermutation",
+            "projectName": "JAVA C_8f34be7d"
+        },
+        {
+            "type": "java",
+            "name": "StringPermutation",
+            "request": "launch",
+            "mainClass": "StringPermutation",
+            "projectName": "JAVA C_8f34be7d"
+        },
+        {
+            "type": "java",
+            "name": "StringSubSet",
+            "request": "launch",
+            "mainClass": "StringSubSet",
+            "projectName": "JAVA C_8f34be7d"
+        },
+        {
+            "type": "java",
+            "name": "BacktrakingArr",
+            "request": "launch",
+            "mainClass": "BacktrakingArr",
+            "projectName": "JAVA C_8f34be7d"
+        },
+        {
+            "type": "java",
+            "name": "QuickSort",
+            "request": "launch",
+            "mainClass": "QuickSort",
+            "projectName": "JAVA C_8f34be7d"
+        },
+        {
+            "type": "java",
+            "name": "MergeSort",
+            "request": "launch",
+            "mainClass": "MergeSort",
+            "projectName": "JAVA C_8f34be7d"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArraysCC",
+            "request": "launch",
+            "mainClass": "ArraysCC",
+            "projectName": "JAVA C_8f34be7d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch ButterflyPattern",
+            "request": "launch",
+            "mainClass": "ButterflyPattern",
+            "projectName": "JAVA C_8f34be7d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Factorial",
+            "request": "launch",
+            "mainClass": "Factorial",
+            "projectName": "JAVA C_8f34be7d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Function",
+            "request": "launch",
+            "mainClass": "Function",
+            "projectName": "JAVA C_8f34be7d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Isprime",
+            "request": "launch",
+            "mainClass": "Isprime",
+            "projectName": "JAVA C_8f34be7d"
+        },
+        {
+            "type": "java",
+            "name": "Launch LargestNoInArray",
+            "request": "launch",
+            "mainClass": "LargestNoInArray",
+            "projectName": "JAVA C_8f34be7d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern",
+            "request": "launch",
+            "mainClass": "Pattern",
+            "projectName": "JAVA C_8f34be7d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Piramid",
+            "request": "launch",
+            "mainClass": "Piramid",
+            "projectName": "JAVA C_8f34be7d"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrimeInRange",
+            "request": "launch",
+            "mainClass": "PrimeInRange",
+            "projectName": "JAVA C_8f34be7d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Rohmbus",
+            "request": "launch",
+            "mainClass": "Rohmbus",
+            "projectName": "JAVA C_8f34be7d"
+        },
+        {
+            "type": "java",
+            "name": "Launch first",
+            "request": "launch",
+            "mainClass": "first",
+            "projectName": "JAVA C_8f34be7d"
+        }
+    ]
+}
